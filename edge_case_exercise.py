@@ -8,4 +8,4 @@ def move(my_list, direction=None):
         my_list[index_of_one] = 0
         my_list[index_of_one - 1] = 1
 
-    return my_lis
+    return my_list
